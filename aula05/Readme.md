@@ -8,7 +8,7 @@ Para executar esta aplicação, é necessário ter o [Docker](https://www.docker
 
 1.  **Obter o Código Fonte:**
     ```bash
-    git clone https://github.com/mbrito19/meu-dashboard-php-mysql-aula05.git
+    git clone https://github.com/leonardoyur/meu-dashboard-php-mysql-aula05.git
     cd meu-dashboard-php-mysql-aula05
     ```
 
