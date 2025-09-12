@@ -1,5 +1,3 @@
-# Dashboard de Clientes - PHP + MySQL + Docker
-
 Este projeto demonstra a criação de uma aplicação web completa em um único contêiner Docker, desenvolvida em PHP, que exibe uma lista de clientes de um banco de dados MySQL rodando no mesmo contêiner.
 
 ## Como Executar o Contêiner
